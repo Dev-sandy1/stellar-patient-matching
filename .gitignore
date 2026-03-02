@@ -48,3 +48,4 @@ server/CLI_TEST_GUIDE.md
 # Stitch screens and images
 *.png
 *.html
+node_modules/
