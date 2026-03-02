@@ -126,3 +126,4 @@ process.on("SIGINT", async () => {
   await closeDatabase();
   process.exit(0);
 });
+// project initialized
