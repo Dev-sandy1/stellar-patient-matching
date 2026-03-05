@@ -127,3 +127,4 @@ process.on("SIGINT", async () => {
   process.exit(0);
 });
 // project initialized
+// Fastify server configured
