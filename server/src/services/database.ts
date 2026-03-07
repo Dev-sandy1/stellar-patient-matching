@@ -124,3 +124,4 @@ export function getTrialsCollection(): Collection<Trial> {
   const database = getDatabase();
   return database.collection<Trial>("trials");
 }
+// database service initialized
