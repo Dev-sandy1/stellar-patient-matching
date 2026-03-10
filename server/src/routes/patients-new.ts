@@ -337,3 +337,4 @@ export async function patientsRoutes(fastify: FastifyInstance, opts: PatientsRou
     },
   );
 }
+// patient routes
