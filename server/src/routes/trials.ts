@@ -497,3 +497,4 @@ export async function trialsRoutes(fastify: FastifyInstance, opts: TrialsRoutesO
 export function getTrialsStore(): Map<string, ParsedTrial> {
   return trialsStore;
 }
+// trial management routes
