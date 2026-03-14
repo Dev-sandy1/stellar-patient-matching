@@ -162,3 +162,4 @@ export async function pharmaRoutes(fastify: FastifyInstance, opts: PharmaRoutesO
     },
   );
 }
+// pharma routes
