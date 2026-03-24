@@ -128,3 +128,4 @@ process.on("SIGINT", async () => {
 });
 // project initialized
 // Fastify server configured
+// CORS enabled for frontend
