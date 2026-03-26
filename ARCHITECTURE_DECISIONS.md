@@ -778,3 +778,4 @@ contracts/hospital-screening/target/wasm32-wasip2/release/
 **Contract Build:** Successfully compiled both WASM contracts  
 **Backend Status:** All routes implemented and tested  
 **Ready For:** Frontend integration and real TEE deployment
+\n## Decision: TEE over ZKP
