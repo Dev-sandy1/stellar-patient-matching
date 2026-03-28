@@ -489,3 +489,4 @@ async function getAgentClient(encryptedPrivateKey: string, ethAddress: string): 
 
   return client;
 }
+// agent deployment logic
