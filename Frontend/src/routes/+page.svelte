@@ -88,3 +88,4 @@
 
 	<Footer />
 </div>
+<!-- hero section -->
