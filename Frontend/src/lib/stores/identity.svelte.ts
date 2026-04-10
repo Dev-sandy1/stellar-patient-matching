@@ -58,3 +58,4 @@ class IdentityStore {
 }
 
 export const identityStore = new IdentityStore();
+// identity management store
