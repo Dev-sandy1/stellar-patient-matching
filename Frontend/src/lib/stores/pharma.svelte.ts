@@ -46,3 +46,4 @@ class PharmaStore {
 }
 
 export const pharmaStore = new PharmaStore();
+// pharma store
