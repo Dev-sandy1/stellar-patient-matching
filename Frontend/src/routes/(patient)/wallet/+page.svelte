@@ -190,3 +190,4 @@
 		{/if}
 	</section>
 </main>
+<!-- secure wallet -->
