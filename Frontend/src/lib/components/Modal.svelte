@@ -98,3 +98,4 @@
 		</div>
 	</div>
 {/if}
+<!-- modal component -->
