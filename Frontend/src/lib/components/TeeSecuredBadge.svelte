@@ -8,3 +8,4 @@
 	<span class="material-symbols-outlined text-[14px] text-primary">lock</span>
 	<span class="text-label-sm text-on-surface">{label}</span>
 </div>
+<!-- TEE badge -->
