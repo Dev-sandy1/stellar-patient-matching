@@ -34,3 +34,4 @@ impl exports::z::tenant_patient_matching::contracts::Guest for Component {
 
 #[cfg(target_arch = "wasm32")]
 export!(Component);
+// TEE WASM contracts
