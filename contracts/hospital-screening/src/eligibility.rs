@@ -175,3 +175,4 @@ pub fn check_eligibility(input_bytes: &[u8]) -> Result<Vec<u8>, String> {
     serde_json::to_vec(&output)
         .map_err(|e| format!("check-eligibility: serialize output: {e}"))
 }
+// hospital screening logic
