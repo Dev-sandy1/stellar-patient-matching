@@ -19,3 +19,4 @@ interface contracts {
   get-trial-criteria: func(req: generic-input) -> result<list<u8>, string>;
   submit-match-result: func(req: generic-input) -> result<list<u8>, string>;
 }
+// WIT world definition
