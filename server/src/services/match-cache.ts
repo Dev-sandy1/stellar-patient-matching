@@ -148,3 +148,4 @@ export async function cleanupExpiredMatches(): Promise<number> {
 
   return result.deletedCount;
 }
+// 7-day TTL cache for matches
