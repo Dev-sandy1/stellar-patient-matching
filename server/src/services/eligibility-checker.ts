@@ -198,3 +198,4 @@ function matchesCriterion(criterion: TrialCriteria, healthRecord: PatientHealthR
       return false;
   }
 }
+// eligibility checking service
