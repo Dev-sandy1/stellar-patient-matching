@@ -38,3 +38,4 @@ export function validatePdfBuffer(buffer: Buffer, maxSizeBytes: number = 20 * 10
     throw new Error("Invalid PDF file format");
   }
 }
+// PDF health record extraction
