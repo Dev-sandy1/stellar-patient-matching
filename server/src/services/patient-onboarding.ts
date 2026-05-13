@@ -125,3 +125,4 @@ export async function storePatientHealthData(
   // For now, we'll just validate the client is authenticated
   // The actual storage happens in the route handler which stores in MongoDB
 }
+// patient onboarding flow
