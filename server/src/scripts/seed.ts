@@ -614,3 +614,4 @@ seedDatabase()
     console.error(err);
     process.exit(1);
   });
+// seed 5 trials and 10 patients
