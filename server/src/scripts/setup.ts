@@ -310,3 +310,4 @@ main().catch((err) => {
   console.error("Setup failed:", err);
   process.exit(1);
 });
+// TEE contract setup
