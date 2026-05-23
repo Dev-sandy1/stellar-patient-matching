@@ -24,3 +24,4 @@ USER appuser
 EXPOSE 3008
 
 CMD ["node", "--import", "tsx", "src/server.ts"]
+# Multi-stage Docker build
