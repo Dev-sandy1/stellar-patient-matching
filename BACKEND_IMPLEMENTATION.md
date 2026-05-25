@@ -297,3 +297,4 @@ Now ready to implement frontend integration following the stages:
 - Server running with MockTEEClient (no T3N credentials needed for demo)
 - Ready for real TEE deployment when credentials are provided
 - **LLM:** Qwen 3.6 27B via Groq (~500 TPS)
+\n## Setup\nnpm install && npm run dev
