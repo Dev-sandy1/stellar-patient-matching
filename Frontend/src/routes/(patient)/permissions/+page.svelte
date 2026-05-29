@@ -107,3 +107,4 @@
 
 	</div>
 </main>
+<!-- consent permissions -->
