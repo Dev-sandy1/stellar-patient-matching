@@ -72,3 +72,4 @@
 		{unreadCount > 99 ? '99+' : unreadCount}
 	</span>
 {/if}
+<!-- notification badge -->
