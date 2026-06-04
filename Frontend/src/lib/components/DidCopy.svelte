@@ -23,3 +23,4 @@
 		{copied ? 'check' : 'content_copy'}
 	</span>
 </div>
+<!-- DID copy component -->
