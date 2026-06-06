@@ -129,3 +129,4 @@
 		<p>All data is encrypted with AES-256-GCM before storage. Your private key never leaves this device.</p>
 	</div>
 </div>
+<!-- PDF upload -->
