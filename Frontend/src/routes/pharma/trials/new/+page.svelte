@@ -278,3 +278,4 @@ Exclusion Criteria:
 		</form>
 	</div>
 {/if}
+<!-- create trial form -->
