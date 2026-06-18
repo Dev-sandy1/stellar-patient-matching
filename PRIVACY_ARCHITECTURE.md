@@ -330,3 +330,4 @@ Response: {
 - Hardware isolation (Intel TDX)
 - Cryptographic authorization (DIDs)
 - Immutable audit trail (T3N ledger)
+\n## Data Flow\nPatient data encrypted at rest.
