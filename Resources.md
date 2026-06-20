@@ -25,3 +25,4 @@ https://docs.terminal3.io/developers/adk/tips/placeholders-outbound-calls
 https://docs.terminal3.io/developers/adk/tips/common-errors
 
 https://blog.terminal3.io/the-agentic-ai-security-governance-manifesto/
+\n## References\nTerminal 3 ADK Docs
