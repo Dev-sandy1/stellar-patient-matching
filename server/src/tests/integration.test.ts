@@ -259,3 +259,4 @@ describe("Stellar Patient Matching Integration Tests", () => {
 console.log("\n" + "=".repeat(60));
 console.log("Stellar Patient Matching Integration Test Suite");
 console.log("=".repeat(60) + "\n");
+// integration test suite
