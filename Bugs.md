@@ -79,4 +79,4 @@ HTTP 500: Internal error [request_id: ...]
 **Next Steps:**
 - Monitor T3N platform status
 - Retry publishing when platform recovers
-- TEE code will automatically be used when publish succeeds
+- TEE code will automatically be used when publish succeeds## Known Issues\n- A11y warnings in Svelte components
