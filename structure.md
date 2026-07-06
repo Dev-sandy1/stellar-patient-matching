@@ -396,3 +396,4 @@ pnpm invoke
 **Last Updated:** June 21, 2026  
 **Version:** 1.0.0  
 **Status:** MVP Complete
+\n## Frontend\nSvelteKit with Tailwind CSS
