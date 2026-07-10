@@ -30,3 +30,4 @@ services:
         value: mock-trials-key
     healthCheckPath: /
     autoDeploy: true
+# Render config
