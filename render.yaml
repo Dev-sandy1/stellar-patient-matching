@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: stellar-patient-matching-api
+    runtime: node
+    rootDir: server
+    buildCommand: npm install
+    startCommand: npx tsx src/server.ts
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3008
+      - key: T3N_API_KEY
+        sync: false
+      - key: AGENT_KEY
+        sync: false
+      - key: MONGODB_URI
+        sync: false
+      - key: WALLET_ENCRYPTION_KEY
+        generateValue: true
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: LLM_PROVIDER
+        value: groq
+      - key: EHR_API_KEY
+        value: mock-ehr-key
+      - key: TRIALS_API_KEY
+        value: mock-trials-key
+    healthCheckPath: /
+    autoDeploy: true
